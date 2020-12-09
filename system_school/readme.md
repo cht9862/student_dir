@@ -45,6 +45,13 @@
             做数据的处理，数据的增删改查
             db
                 db_handler.py
+                    ATM + 购物车
+                        存放json 格式的数据
+                        dict --> json
+
+                    选课系统
+                        pickle 保存对象
+                        object --> pickle
                 models.py
 ## 3-任务开发
 ## 4-测试
